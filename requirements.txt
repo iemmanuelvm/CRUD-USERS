@@ -1,0 +1,6 @@
+Flask==2.2.5
+flask-smorest
+Flask-SQLAlchemy
+Flask-Migrate
+passlib
+marshmallow
